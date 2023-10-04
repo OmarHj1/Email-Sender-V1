@@ -2,7 +2,7 @@
 
 **Email Sender**
 
-This is a simple Python script to send emails. It can be used to send emails in batches, with either HTML or plain text bodies.
+This is a simple Programe to send emails. It can be used to send emails in batches, with either HTML or plain text bodies.
 
 **Features:**
 
